@@ -22,7 +22,7 @@ Estou no terceiro período de **análise e desenvolvimento de sistemas**.
 </p>
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
 > _"Não há problema que codar não resolva."_
 
