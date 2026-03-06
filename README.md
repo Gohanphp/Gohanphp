@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, Guilherme Tavares
 
-<!--
-**Gohanphp/Gohanphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudando python & javaScript**  
 
-Here are some ideas to get you started:
+Atualmente **Buscando estágio para adquirir experiência**,
+Estou no terceiro período de **análise e desenvolvimento de sistemas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Minhas redes
+
+<p align="left">
+  <a href="https://github.com/Gohanphp">
+    <img src="https://img.shields.io/badge/GitHub-Gohanphp-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@G_tavares77-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Gohanphp">
+    <img src="https://img.shields.io/badge/YouTube-%20Gohanphp%20%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+---
+
+## 🚀 Philosophy
+
+> _"Não há problema que codar não resolva."_
+
+---
