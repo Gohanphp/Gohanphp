@@ -1,4 +1,4 @@
-# Hi 👋, Guilherme Tavares
+# Olá me chamo Guilherme Tavares
 
 🚀 **Estudando python & javaScript**  
 
