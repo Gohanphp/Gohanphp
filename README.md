@@ -13,7 +13,7 @@ Estou no terceiro período de **análise e desenvolvimento de sistemas**.
   <a href="https://github.com/Gohanphp">
     <img src="https://img.shields.io/badge/GitHub-Gohanphp-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/g_tavares77">
     <img src="https://img.shields.io/badge/Instagram-@G_tavares77-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Gohanphp">
